@@ -1,0 +1,147 @@
+feature sets: All, HC
+    top-50 shared instances
+         Have I brought them forth, that you should tell me, 'Carry them in your bosom, as a nurse carries a nursing infant, to the land which you swore to their fathers?' nursing infant 0.15000000000000002
+         But it displeased Jonah exceedingly, and he was angry. displeased Jonah 0.25
+         then Yahweh will make your plagues wonderful, and the plagues of your seed, even great plagues, and of long continuance, and severe sicknesses, and of long continuance. severe sicknesses 0.325
+         The king spoke and said to the wise men of Babylon, Whoever shall read this writing, and show me its interpretation, shall be clothed with purple, and have a chain of gold about his neck, and shall be the third ruler in the kingdom. third ruler 0.2333333333333333
+         and whoever doesn't fall down and worship shall be cast into the midst of a burning fiery furnace. fiery furnace 0.2368421052631579
+         A wicked messenger falls into trouble, but a trustworthy envoy gains healing. wicked messenger 0.22368421052631576
+         For if by the trespass of the one, death reigned through the one; so much more will those who receive the abundance of grace and of the gift of righteousness reign in life through the one, Jesus Christ. righteousness reign 0.5555555555555556
+         They each took his censer, and put fire in them, and laid incense thereon, and stood at the door of the Tent of Meeting with Moses and Aaron. incense thereon 0.7
+         The oxen likewise and the young donkeys that till the ground will eat savory provender, which has been winnowed with the shovel and with the fork. savory provender 0.625
+         Behold, I am against those who prophesy lying dreams, says Yahweh, and do tell them, and cause my people to err by their lies, and by their vain boasting: yet I didn't send them, nor commanded them; neither do they profit this people at all, says Yahweh. vain boasting 0.6666666666666666
+         Over 30 QTL have been identified in various experiments [1,2]. various experiments 0.09999999999999998
+         To date, very few genes have been reported that show species specific alternative splice variants. few genes 0.19642857142857145
+         Furthermore, a 129-derived interval on distal Chromosome 1, when transferred onto the C57BL/6 genome, a combination commonly created by backcrossing onto C57BL/6 a gene that has been inactivated in 129 embryonic stem cells, was sufficient to cause humoral autoimmunity in its own right, irrespective of the presence of the mutated Apcs gene. distal Chromosome 0.7352941176470589
+         Design of inhibitors specific for CLN2 should incorporate the features that have been proven to be important for the related enzymes, such as the placement of an aldehyde functionality capable of making covalent interactions with the catalytic serine, or the utilization of chloromethyl ketone for the same purpose. catalytic serine 0.65625
+         Thus, members of the ZnT and ZIP family with zinc as predominant substrate have opposite roles in cellular zinc homeostasis (43). predominant substrate 0.6547619047619048
+         To avoid such deleterious outcomes, surveillance systems (“checkpoints”) exist to sense meiotic errors and eliminate cells containing unresolved defects. deleterious outcomes 0.6111111111111112
+         This is the oral amendment as agreed: 'Notes the announcement of new presidential elections by the junta, but deplores the failure - contrary to the position of the 2005-2007 junta - of a commitment to neutrality; calls on the military in power to commit themselves forthwith to a timetable for the restoration of the democratic institutions, in cooperation with the political forces'. presidential elections 0.19117647058823528
+         It is true that we have a particular link with this remarkable woman, who won one of the first Sakharov Prizes here, in 1990, and who, over 20 or 21 years of her life, spent nearly 15 years in prison. remarkable woman 0.2333333333333333
+         Request for the waiver of parliamentary immunity: see Minutes parliamentary immunity 0.3625
+         For example, it is important to widen the practice of holding auditions behind a screen in recruiting orchestral musicians, by analogy with the existing business practice of viewing anonymous CVs, partly because it is the only way that women will get jobs as orchestral soloists and also because it is a good way of combating racial discrimination. orchestral soloists 0.6
+         The target set by the Heads of State and Government of an average 1% transposition deficit has been met, and we have a winner with 0% transposition delay: Bulgaria. transposition deficit 0.6190476190476191
+
+
+feature sets: All, Glove context + word
+    top-50 shared instances
+         Have I brought them forth, that you should tell me, 'Carry them in your bosom, as a nurse carries a nursing infant, to the land which you swore to their fathers?' nursing infant 0.15000000000000002
+         The godly man has perished out of the earth, and there is no one upright among men. one upright 0.325
+         But it displeased Jonah exceedingly, and he was angry. displeased Jonah 0.25
+         Samuel came no more to see Saul until the day of his death; for Samuel mourned for Saul: and Yahweh grieved that he had made Saul king over Israel. Saul king 0.375
+         A wicked messenger falls into trouble, but a trustworthy envoy gains healing. wicked messenger 0.22368421052631576
+         Hezekiah had exceeding much riches and honor: and he provided him treasuries for silver, and for gold, and for precious stones, and for spices, and for shields, and for all kinds of goodly vessels; goodly vessels 0.4722222222222222
+         They each took his censer, and put fire in them, and laid incense thereon, and stood at the door of the Tent of Meeting with Moses and Aaron. incense thereon 0.7
+         The oxen likewise and the young donkeys that till the ground will eat savory provender, which has been winnowed with the shovel and with the fork. savory provender 0.625
+         Behold, I am against those who prophesy lying dreams, says Yahweh, and do tell them, and cause my people to err by their lies, and by their vain boasting: yet I didn't send them, nor commanded them; neither do they profit this people at all, says Yahweh. vain boasting 0.6666666666666666
+         Over 30 QTL have been identified in various experiments [1,2]. various experiments 0.09999999999999998
+         To date, very few genes have been reported that show species specific alternative splice variants. few genes 0.19642857142857145
+         The deH allele is caused by a large deletion that removes most of the Tbx15 coding sequence, but the pleiotropic phenotype is caused by a simple loss of function for Tbx15 rather than a dominant-negative or contiguous gene effect. simple loss 0.3125
+         Mice with or without intact dopamine D2R-mediated signaling displayed similar decreases in latencies to retrieve unhidden food pellets (Fig. 1) and learned to dig for food buried in unscented sand (Fig. 2). unscented sand 0.2875
+         However, using homologous recombination in ES cells to generate mutant mice is an inefficient, slow and expensive method because (i) homologous recombination typically occurs at low frequency in ES cells, requiring sophisticated selection schemes and screening of hundreds of clones to identify the desired mutant; (ii) large (15–20 kb) plasmids, often difficult to clone, are required to increase targeting efficiency and (iii) breeding mice to homozygosity and housing a mouse colony generate further delays and costs. low frequency 0.2647058823529411
+         Crx, a downstream target of Otx2, controls the transcription of various photoreceptor cell-specific genes and is essential for the formation of outer segments, synaptic terminals, and phototransduction pathways [8,10]. synaptic terminals 0.475
+         Prior to migration onto the diaphragm, they populate the PPF, a wedge-shaped tissue that tapers medially from the lateral body wall to the esophageal mesentery and fuses ventrally with the septum transversum [42]. esophageal mesentery 0.5657894736842105
+         Based upon classical N-glycosylation maturation it would appear that Abcg5/sterolin-1, in the Abcg8-/- mice, does not exit the endoplasmic reticulum. endoplasmic reticulum 0.5131578947368421
+         In this regard, the inducible coactivator PGC-1α serves as a transcriptional “booster” to augment the capacity of downstream metabolic pathways critical for metabolic maturation and postnatal growth. metabolic maturation 0.4078947368421053
+         The persistence and stability of amyloid deposits in our system is unexpected given the speed with which Aβ aggregates are cleared in other mouse models of therapeutic intervention. therapeutic intervention 0.5441176470588235
+         Furthermore, a 129-derived interval on distal Chromosome 1, when transferred onto the C57BL/6 genome, a combination commonly created by backcrossing onto C57BL/6 a gene that has been inactivated in 129 embryonic stem cells, was sufficient to cause humoral autoimmunity in its own right, irrespective of the presence of the mutated Apcs gene. distal Chromosome 0.7352941176470589
+         Thus, members of the ZnT and ZIP family with zinc as predominant substrate have opposite roles in cellular zinc homeostasis (43). predominant substrate 0.6547619047619048
+         To avoid such deleterious outcomes, surveillance systems (“checkpoints”) exist to sense meiotic errors and eliminate cells containing unresolved defects. deleterious outcomes 0.6111111111111112
+         Europe is faced with a tough task as it will need to tackle, apart from the impact of the current crisis, other major challenges as well, such as adapting to globalisation, demographic changes, climate change and energy security problems. demographic changes 0.375
+         The alliance should not replace humanitarian assistance but help to minimise the extent of the expected catastrophes by providing support through innovative programmes, through strengthening administrative structures at national and local levels and also through educating the inhabitants of threatened island states. local levels 0.2833333333333333
+         Request for the waiver of parliamentary immunity: see Minutes parliamentary immunity 0.3625
+         As an insider put it, using benign wording - the church is being tolerated, but that could change around very suddenly. benign wording 0.4
+         For example, it is important to widen the practice of holding auditions behind a screen in recruiting orchestral musicians, by analogy with the existing business practice of viewing anonymous CVs, partly because it is the only way that women will get jobs as orchestral soloists and also because it is a good way of combating racial discrimination. orchestral soloists 0.6
+         Therefore, financial conglomerates must be placed under supplementary supervision, consolidated at group level. supplementary supervision 0.4130434782608695
+         Bearing in mind the lack of trust and suspicion on the part of the peoples of underdeveloped countries towards developed countries and the possible reaction on the part of the peoples of Europe to the constant drain on resources to fund the poor, we have tried to clarify from the start that developing the third world will have significant benefits for the European Union itself in every way: for example, developing jobs may help to address uncontrolled migration and, at the same time, reduce instability in poor countries. uncontrolled migration 0.5526315789473685
+
+
+feature sets: All, Sent
+    top-50 shared instances
+         The godly man has perished out of the earth, and there is no one upright among men. one upright 0.325
+         It is cobra venom within him. cobra venom 0.35
+         and whoever doesn't fall down and worship shall be cast into the midst of a burning fiery furnace. fiery furnace 0.2368421052631579
+         A wicked messenger falls into trouble, but a trustworthy envoy gains healing. wicked messenger 0.22368421052631576
+         Hezekiah had exceeding much riches and honor: and he provided him treasuries for silver, and for gold, and for precious stones, and for spices, and for shields, and for all kinds of goodly vessels; goodly vessels 0.4722222222222222
+         They each took his censer, and put fire in them, and laid incense thereon, and stood at the door of the Tent of Meeting with Moses and Aaron. incense thereon 0.7
+         However, using homologous recombination in ES cells to generate mutant mice is an inefficient, slow and expensive method because (i) homologous recombination typically occurs at low frequency in ES cells, requiring sophisticated selection schemes and screening of hundreds of clones to identify the desired mutant; (ii) large (15–20 kb) plasmids, often difficult to clone, are required to increase targeting efficiency and (iii) breeding mice to homozygosity and housing a mouse colony generate further delays and costs. low frequency 0.2647058823529411
+         Prior to migration onto the diaphragm, they populate the PPF, a wedge-shaped tissue that tapers medially from the lateral body wall to the esophageal mesentery and fuses ventrally with the septum transversum [42]. esophageal mesentery 0.5657894736842105
+         We then screened a brain library with this peptide using the yeast two-hybrid technique and identified three novel interacting proteins, HOMER3, DNCL1 and TRIM11. brain library 0.4166666666666666
+         Based upon classical N-glycosylation maturation it would appear that Abcg5/sterolin-1, in the Abcg8-/- mice, does not exit the endoplasmic reticulum. endoplasmic reticulum 0.5131578947368421
+         The persistence and stability of amyloid deposits in our system is unexpected given the speed with which Aβ aggregates are cleared in other mouse models of therapeutic intervention. therapeutic intervention 0.5441176470588235
+         Furthermore, a 129-derived interval on distal Chromosome 1, when transferred onto the C57BL/6 genome, a combination commonly created by backcrossing onto C57BL/6 a gene that has been inactivated in 129 embryonic stem cells, was sufficient to cause humoral autoimmunity in its own right, irrespective of the presence of the mutated Apcs gene. distal Chromosome 0.7352941176470589
+         This is the oral amendment as agreed: 'Notes the announcement of new presidential elections by the junta, but deplores the failure - contrary to the position of the 2005-2007 junta - of a commitment to neutrality; calls on the military in power to commit themselves forthwith to a timetable for the restoration of the democratic institutions, in cooperation with the political forces'. presidential elections 0.19117647058823528
+         On behalf of the European Parliament, and at a personal level too, I should like to express my sincere condolences to Alain Poher's family and also to the authorities of the French Republic. French Republic 0.3214285714285714
+         Request for the waiver of parliamentary immunity: see Minutes parliamentary immunity 0.3625
+         As an insider put it, using benign wording - the church is being tolerated, but that could change around very suddenly. benign wording 0.4
+         For example, it is important to widen the practice of holding auditions behind a screen in recruiting orchestral musicians, by analogy with the existing business practice of viewing anonymous CVs, partly because it is the only way that women will get jobs as orchestral soloists and also because it is a good way of combating racial discrimination. orchestral soloists 0.6
+         Therefore, financial conglomerates must be placed under supplementary supervision, consolidated at group level. supplementary supervision 0.4130434782608695
+         Bearing in mind the lack of trust and suspicion on the part of the peoples of underdeveloped countries towards developed countries and the possible reaction on the part of the peoples of Europe to the constant drain on resources to fund the poor, we have tried to clarify from the start that developing the third world will have significant benefits for the European Union itself in every way: for example, developing jobs may help to address uncontrolled migration and, at the same time, reduce instability in poor countries. uncontrolled migration 0.5526315789473685
+         The target set by the Heads of State and Government of an average 1% transposition deficit has been met, and we have a winner with 0% transposition delay: Bulgaria. transposition deficit 0.6190476190476191
+
+
+feature sets: HC, Glove context + word
+    top-50 shared instances
+         Deliver my soul from the sword, my precious life from the power of the dog. precious life 0.2
+         Have I brought them forth, that you should tell me, 'Carry them in your bosom, as a nurse carries a nursing infant, to the land which you swore to their fathers?' nursing infant 0.15000000000000002
+         The honorable man, he lived in it. honorable man 0.21052631578947367
+         But it displeased Jonah exceedingly, and he was angry. displeased Jonah 0.25
+         A wicked messenger falls into trouble, but a trustworthy envoy gains healing. wicked messenger 0.22368421052631576
+         They each took his censer, and put fire in them, and laid incense thereon, and stood at the door of the Tent of Meeting with Moses and Aaron. incense thereon 0.7
+         The oxen likewise and the young donkeys that till the ground will eat savory provender, which has been winnowed with the shovel and with the fork. savory provender 0.625
+         Behold, I am against those who prophesy lying dreams, says Yahweh, and do tell them, and cause my people to err by their lies, and by their vain boasting: yet I didn't send them, nor commanded them; neither do they profit this people at all, says Yahweh. vain boasting 0.6666666666666666
+         Over 30 QTL have been identified in various experiments [1,2]. various experiments 0.09999999999999998
+         To date, very few genes have been reported that show species specific alternative splice variants. few genes 0.19642857142857145
+         Furthermore, a 129-derived interval on distal Chromosome 1, when transferred onto the C57BL/6 genome, a combination commonly created by backcrossing onto C57BL/6 a gene that has been inactivated in 129 embryonic stem cells, was sufficient to cause humoral autoimmunity in its own right, irrespective of the presence of the mutated Apcs gene. distal Chromosome 0.7352941176470589
+         Thus, members of the ZnT and ZIP family with zinc as predominant substrate have opposite roles in cellular zinc homeostasis (43). predominant substrate 0.6547619047619048
+         To avoid such deleterious outcomes, surveillance systems (“checkpoints”) exist to sense meiotic errors and eliminate cells containing unresolved defects. deleterious outcomes 0.6111111111111112
+         Only one QTL, Cia2, was identified for the phenotype of CIA severity, but this QTL contributes to only 16% of the phenotype variations for CIA susceptibility in F2 progeny [10]. CIA susceptibility 0.671875
+         We have identified and sequenced 1,264 odorant receptor cDNAs from 419 olfactory receptor genes, confirming their expression in the olfactory epithelium. olfactory epithelium 0.8055555555555556
+         However, I should like to inform you that I have, of course, on behalf of the European Union, expressed our sincere condolences and deepest sympathy to the President of El Salvador in the tragedy which has struck his country. sincere condolences 0.35
+         Request for the waiver of parliamentary immunity: see Minutes parliamentary immunity 0.3625
+         For example, it is important to widen the practice of holding auditions behind a screen in recruiting orchestral musicians, by analogy with the existing business practice of viewing anonymous CVs, partly because it is the only way that women will get jobs as orchestral soloists and also because it is a good way of combating racial discrimination. orchestral soloists 0.6
+         In protecting our institutional prerogatives, we also resisted demands to introduce a management committee procedure for implementing measures so that finally an advisory committee... institutional prerogatives 0.6785714285714286
+
+
+feature sets: HC, Sent
+    top-50 shared instances
+         saying, 'Woe, woe, the great city, she who was dressed in fine linen, purple, and scarlet, and decked with gold and precious stones and pearls! precious stones 0.15000000000000002
+         and whoever doesn't fall down and worship shall be cast into the midst of a burning fiery furnace. fiery furnace 0.2368421052631579
+         A wicked messenger falls into trouble, but a trustworthy envoy gains healing. wicked messenger 0.22368421052631576
+         The altar hearth shall be twelve [cubits] long by twelve broad, square in the four sides of it. altar hearth 0.5166666666666667
+         They each took his censer, and put fire in them, and laid incense thereon, and stood at the door of the Tent of Meeting with Moses and Aaron. incense thereon 0.7
+         Furthermore, a 129-derived interval on distal Chromosome 1, when transferred onto the C57BL/6 genome, a combination commonly created by backcrossing onto C57BL/6 a gene that has been inactivated in 129 embryonic stem cells, was sufficient to cause humoral autoimmunity in its own right, irrespective of the presence of the mutated Apcs gene. distal Chromosome 0.7352941176470589
+         Indeed, complete deficiency for either huntingtin or the eed protein leads to abnormal streak development, lack of headfold formation, ectopic T, Evx1 and Nodal expression and disruption of anterior primitive streak mesoderm production [47]. Nodal expression 0.618421052631579
+         The tif1γ gene is expressed specifically in ventral mesoderm and hematopoietic progenitors, then downregulated as erythroid maturation occurs. ventral mesoderm 0.7058823529411765
+         Results of our cDNA library screen suggested that some olfactory receptors are expressed at significantly higher levels than others. olfactory receptors 0.625
+         We have identified and sequenced 1,264 odorant receptor cDNAs from 419 olfactory receptor genes, confirming their expression in the olfactory epithelium. olfactory epithelium 0.8055555555555556
+         It has been reported that adhesion molecules, such as neural cell adhesion molecule (NCAM), are not only implicated in cell interactions during nervous system development, but are also recognised as important mediators of synaptic plasticity in the adult nervous system [35]. synaptic plasticity 0.8055555555555556
+         This is the oral amendment as agreed: 'Notes the announcement of new presidential elections by the junta, but deplores the failure - contrary to the position of the 2005-2007 junta - of a commitment to neutrality; calls on the military in power to commit themselves forthwith to a timetable for the restoration of the democratic institutions, in cooperation with the political forces'. presidential elections 0.19117647058823528
+         EU agriculture and climate change ( EU agriculture 0.2875
+         Request for the waiver of parliamentary immunity: see Minutes parliamentary immunity 0.3625
+         For example, it is important to widen the practice of holding auditions behind a screen in recruiting orchestral musicians, by analogy with the existing business practice of viewing anonymous CVs, partly because it is the only way that women will get jobs as orchestral soloists and also because it is a good way of combating racial discrimination. orchestral soloists 0.6
+         In protecting our institutional prerogatives, we also resisted demands to introduce a management committee procedure for implementing measures so that finally an advisory committee... institutional prerogatives 0.6785714285714286
+         The target set by the Heads of State and Government of an average 1% transposition deficit has been met, and we have a winner with 0% transposition delay: Bulgaria. transposition deficit 0.6190476190476191
+
+
+feature sets: Glove context + word, Sent
+    top-50 shared instances
+         The godly man has perished out of the earth, and there is no one upright among men. one upright 0.325
+         A wicked messenger falls into trouble, but a trustworthy envoy gains healing. wicked messenger 0.22368421052631576
+         Hezekiah had exceeding much riches and honor: and he provided him treasuries for silver, and for gold, and for precious stones, and for spices, and for shields, and for all kinds of goodly vessels; goodly vessels 0.4722222222222222
+         and you took your embroidered garments, and covered them, and set my oil and my incense before them. embroidered garments 0.4464285714285714
+         They each took his censer, and put fire in them, and laid incense thereon, and stood at the door of the Tent of Meeting with Moses and Aaron. incense thereon 0.7
+         However, using homologous recombination in ES cells to generate mutant mice is an inefficient, slow and expensive method because (i) homologous recombination typically occurs at low frequency in ES cells, requiring sophisticated selection schemes and screening of hundreds of clones to identify the desired mutant; (ii) large (15–20 kb) plasmids, often difficult to clone, are required to increase targeting efficiency and (iii) breeding mice to homozygosity and housing a mouse colony generate further delays and costs. low frequency 0.2647058823529411
+         Prior to migration onto the diaphragm, they populate the PPF, a wedge-shaped tissue that tapers medially from the lateral body wall to the esophageal mesentery and fuses ventrally with the septum transversum [42]. esophageal mesentery 0.5657894736842105
+         Based upon classical N-glycosylation maturation it would appear that Abcg5/sterolin-1, in the Abcg8-/- mice, does not exit the endoplasmic reticulum. endoplasmic reticulum 0.5131578947368421
+         The persistence and stability of amyloid deposits in our system is unexpected given the speed with which Aβ aggregates are cleared in other mouse models of therapeutic intervention. therapeutic intervention 0.5441176470588235
+         Furthermore, a 129-derived interval on distal Chromosome 1, when transferred onto the C57BL/6 genome, a combination commonly created by backcrossing onto C57BL/6 a gene that has been inactivated in 129 embryonic stem cells, was sufficient to cause humoral autoimmunity in its own right, irrespective of the presence of the mutated Apcs gene. distal Chromosome 0.7352941176470589
+         We have identified and sequenced 1,264 odorant receptor cDNAs from 419 olfactory receptor genes, confirming their expression in the olfactory epithelium. olfactory epithelium 0.8055555555555556
+         Members voting: 548 Blank or spoilt ballots: 33 Votes cast: 515 Absolute majority: 258 spoilt ballots 0.3947368421052632
+         Request for the waiver of parliamentary immunity: see Minutes parliamentary immunity 0.3625
+         As an insider put it, using benign wording - the church is being tolerated, but that could change around very suddenly. benign wording 0.4
+         For example, it is important to widen the practice of holding auditions behind a screen in recruiting orchestral musicians, by analogy with the existing business practice of viewing anonymous CVs, partly because it is the only way that women will get jobs as orchestral soloists and also because it is a good way of combating racial discrimination. orchestral soloists 0.6
+         Therefore, financial conglomerates must be placed under supplementary supervision, consolidated at group level. supplementary supervision 0.4130434782608695
+         Bearing in mind the lack of trust and suspicion on the part of the peoples of underdeveloped countries towards developed countries and the possible reaction on the part of the peoples of Europe to the constant drain on resources to fund the poor, we have tried to clarify from the start that developing the third world will have significant benefits for the European Union itself in every way: for example, developing jobs may help to address uncontrolled migration and, at the same time, reduce instability in poor countries. uncontrolled migration 0.5526315789473685
+         The omission of definitions of a severity classification was a glaring hole in the whole proposal. severity classification 0.4166666666666666
+         In protecting our institutional prerogatives, we also resisted demands to introduce a management committee procedure for implementing measures so that finally an advisory committee... institutional prerogatives 0.6785714285714286

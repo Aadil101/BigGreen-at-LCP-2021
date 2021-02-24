@@ -1,0 +1,33 @@
+feature sets: All, HC
+    top-10 shared instances
+         Behold, I am against those who prophesy lying dreams, says Yahweh, and do tell them, and cause my people to err by their lies, and by their vain boasting: yet I didn't send them, nor commanded them; neither do they profit this people at all, says Yahweh. vain boasting 0.6666666666666666
+         Over 30 QTL have been identified in various experiments [1,2]. various experiments 0.09999999999999998
+
+
+feature sets: All, Glove context + word
+    top-10 shared instances
+         Behold, I am against those who prophesy lying dreams, says Yahweh, and do tell them, and cause my people to err by their lies, and by their vain boasting: yet I didn't send them, nor commanded them; neither do they profit this people at all, says Yahweh. vain boasting 0.6666666666666666
+         Over 30 QTL have been identified in various experiments [1,2]. various experiments 0.09999999999999998
+         Based upon classical N-glycosylation maturation it would appear that Abcg5/sterolin-1, in the Abcg8-/- mice, does not exit the endoplasmic reticulum. endoplasmic reticulum 0.5131578947368421
+         In this regard, the inducible coactivator PGC-1α serves as a transcriptional “booster” to augment the capacity of downstream metabolic pathways critical for metabolic maturation and postnatal growth. metabolic maturation 0.4078947368421053
+
+
+feature sets: All, Sent
+    top-10 shared instances
+         Therefore, financial conglomerates must be placed under supplementary supervision, consolidated at group level. supplementary supervision 0.4130434782608695
+
+
+feature sets: HC, Glove context + word
+    top-10 shared instances
+         Behold, I am against those who prophesy lying dreams, says Yahweh, and do tell them, and cause my people to err by their lies, and by their vain boasting: yet I didn't send them, nor commanded them; neither do they profit this people at all, says Yahweh. vain boasting 0.6666666666666666
+         Over 30 QTL have been identified in various experiments [1,2]. various experiments 0.09999999999999998
+
+
+feature sets: HC, Sent
+    top-10 shared instances
+         None
+
+
+feature sets: Glove context + word, Sent
+    top-10 shared instances
+         None
