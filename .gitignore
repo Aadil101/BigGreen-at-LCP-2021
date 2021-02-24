@@ -1,2 +1,3 @@
-macbook/data/*
-macbook/mt-dnn/*
+*/.DS_Store
+macbook/data/
+macbook/mt-dnn/
