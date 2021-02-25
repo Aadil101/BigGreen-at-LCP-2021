@@ -51,9 +51,9 @@ fi
 
 lib=$(pwd)/lib
 if [ ! -d "${lib}/stanford-corenlp-4.2.0"  ]; then
+    echo "Create Stanford CoreNLP"
     if [ ! -f "${lib}/stanford-corenlp-latest.zip" ]; then
         wget -nc -q https://nlp.stanford.edu/software/stanford-corenlp-latest.zip -O "${lib}/stanford-corenlp-4.2.0.zip"
     fi
     unzip "${lib}/stanford-corenlp-4.2.0.zip" -d "${lib}"
 fi
-
