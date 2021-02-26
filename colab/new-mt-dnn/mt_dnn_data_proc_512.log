@@ -1,0 +1,141 @@
+12/31/2020 06:33:57 Task lcp
+12/31/2020 06:33:57 data_complex/bert_base_cased/lcp_train.json
+12/31/2020 06:35:25 Task lcp
+12/31/2020 06:35:25 data_complex/bert_base_cased/lcp_train.json
+12/31/2020 06:36:35 Task lcp
+12/31/2020 06:36:35 data_complex/bert_base_cased/lcp_train.json
+12/31/2020 06:36:38 data_complex/bert_base_cased/lcp_dev.json
+12/31/2020 06:36:39 data_complex/bert_base_cased/lcp_test.json
+12/31/2020 09:38:12 Task lcp
+12/31/2020 09:38:12 data_complex/bert_base_cased/lcp_train.json
+12/31/2020 09:38:16 data_complex/bert_base_cased/lcp_dev.json
+12/31/2020 09:38:17 data_complex/bert_base_cased/lcp_test.json
+01/08/2021 08:53:26 Task lcp
+01/08/2021 08:53:27 data_complex/bert_base_cased/lcp_train.json
+01/08/2021 08:53:32 data_complex/bert_base_cased/lcp_dev.json
+01/08/2021 08:53:34 data_complex/bert_base_cased/lcp_test.json
+01/09/2021 09:20:31 Task lcp
+01/09/2021 09:20:32 data_complex/bert_base_cased/lcp_train.json
+01/09/2021 09:20:38 data_complex/bert_base_cased/lcp_dev.json
+01/09/2021 09:20:39 data_complex/bert_base_cased/lcp_test.json
+01/10/2021 08:22:47 Task lcp
+01/10/2021 08:22:49 data_complex/bert_base_cased/lcp_train.json
+01/10/2021 08:22:51 data_complex/bert_base_cased/lcp_dev.json
+01/10/2021 08:22:52 data_complex/bert_base_cased/lcp_test.json
+01/10/2021 10:28:17 Task lcp
+01/10/2021 10:28:18 data_complex/bert_base_cased/lcp_train.json
+01/10/2021 10:28:19 data_complex/bert_base_cased/lcp_dev.json
+01/10/2021 10:28:19 data_complex/bert_base_cased/lcp_test.json
+01/12/2021 02:39:26 Task lcp
+01/12/2021 02:39:27 File %s doesnot exit
+01/12/2021 02:39:52 Task lcp
+01/12/2021 02:39:52 File %s doesnot exit
+01/12/2021 02:43:19 Task lcp
+01/12/2021 02:43:20 data_complex/bert_base_cased/lcp_train.json
+01/12/2021 02:43:25 data_complex/bert_base_cased/lcp_dev.json
+01/12/2021 02:43:27 data_complex/bert_base_cased/lcp_test.json
+01/12/2021 04:04:48 Task lcp
+01/12/2021 04:04:48 File %s doesnot exit
+01/12/2021 04:05:34 Task lcp
+01/12/2021 04:05:34 data_complex/bert_base_cased/lcp_train.json
+01/12/2021 04:05:40 data_complex/bert_base_cased/lcp_dev.json
+01/12/2021 04:05:41 data_complex/bert_base_cased/lcp_test.json
+01/12/2021 05:00:45 Task lcp
+01/12/2021 05:00:45 data_complex/bert_base_cased/lcp_train.json
+01/12/2021 05:00:49 data_complex/bert_base_cased/lcp_dev.json
+01/12/2021 05:00:50 data_complex/bert_base_cased/lcp_test.json
+01/12/2021 08:37:03 Task lcp
+01/12/2021 08:37:04 File %s doesnot exit
+01/12/2021 08:37:22 Task lcp
+01/12/2021 08:37:23 data_complex/bert_base_cased/lcp_train.json
+01/12/2021 08:37:28 data_complex/bert_base_cased/lcp_dev.json
+01/12/2021 08:37:29 data_complex/bert_base_cased/lcp_test.json
+01/12/2021 09:20:21 Task lcp
+01/12/2021 09:20:21 data_complex/bert_base_cased/lcp_train.json
+01/12/2021 09:20:24 data_complex/bert_base_cased/lcp_dev.json
+01/12/2021 09:20:26 data_complex/bert_base_cased/lcp_test.json
+01/14/2021 03:28:17 Task lcp
+01/14/2021 03:28:20 data_complex/bert_large_cased/lcp_train.json
+01/14/2021 03:28:25 data_complex/bert_large_cased/lcp_dev.json
+01/14/2021 03:28:27 data_complex/bert_large_cased/lcp_test.json
+01/19/2021 07:57:33 Task lcp
+01/19/2021 07:57:34 data_complex/bert_base_cased/lcp_train.json
+01/19/2021 07:57:40 data_complex/bert_base_cased/lcp_dev.json
+01/19/2021 08:09:24 Task lcp
+01/19/2021 08:09:24 data_complex/bert_base_cased/lcp_train.json
+01/19/2021 08:09:29 data_complex/bert_base_cased/lcp_dev.json
+01/19/2021 08:09:29 data_complex/bert_base_cased/lcp_test.json
+01/19/2021 08:30:36 Task lcp
+01/19/2021 08:30:36 data_complex/bert_base_cased/lcp_train.json
+01/19/2021 08:30:38 data_complex/bert_base_cased/lcp_dev.json
+01/19/2021 08:30:38 data_complex/bert_base_cased/lcp_test.json
+01/25/2021 09:05:22 Task lcp
+01/25/2021 09:05:23 File %s doesnot exit
+01/25/2021 09:08:59 Task lcp
+01/25/2021 09:09:00 data_complex/bert_base_cased/lcp_train.json
+01/25/2021 09:09:06 data_complex/bert_base_cased/lcp_dev.json
+01/25/2021 09:09:07 data_complex/bert_base_cased/lcp_test.json
+01/25/2021 09:23:31 Task lcp
+01/25/2021 09:23:31 data_complex/bert_base_cased/lcp_train.json
+01/25/2021 09:23:36 data_complex/bert_base_cased/lcp_dev.json
+01/25/2021 09:23:38 data_complex/bert_base_cased/lcp_test.json
+01/28/2021 04:58:14 Task lcp
+01/28/2021 04:58:15 data_complex/bert_base_cased/lcp_train.json
+01/28/2021 04:58:16 data_complex/bert_base_cased/lcp_dev.json
+01/28/2021 04:58:16 File %s doesnot exit
+01/28/2021 04:58:44 Task lcp
+01/28/2021 04:58:44 data_complex/bert_base_cased/lcp_train.json
+01/28/2021 04:58:45 data_complex/bert_base_cased/lcp_dev.json
+01/28/2021 04:58:45 data_complex/bert_base_cased/lcp_test.json
+01/28/2021 05:25:08 Task lcp
+01/28/2021 05:25:08 data_complex/bert_base_cased/lcp_train.json
+01/28/2021 05:25:09 data_complex/bert_base_cased/lcp_dev.json
+01/28/2021 05:25:09 data_complex/bert_base_cased/lcp_test.json
+01/28/2021 05:25:14 Task lcp
+01/28/2021 05:25:14 data_complex/bert_base_cased/lcp_train.json
+01/28/2021 05:25:15 data_complex/bert_base_cased/lcp_dev.json
+01/28/2021 05:25:15 data_complex/bert_base_cased/lcp_test.json
+01/28/2021 05:25:24 Task lcp
+01/28/2021 05:25:24 data_complex/bert_base_cased/lcp_train.json
+01/28/2021 05:25:25 data_complex/bert_base_cased/lcp_dev.json
+01/28/2021 05:25:25 data_complex/bert_base_cased/lcp_test.json
+01/28/2021 05:28:16 Task lcp
+01/28/2021 05:28:16 data_complex/bert_base_cased/lcp_train.json
+01/28/2021 05:28:17 data_complex/bert_base_cased/lcp_dev.json
+01/28/2021 05:28:17 File %s doesnot exit
+01/28/2021 05:28:24 Task lcp
+01/28/2021 05:28:24 data_complex/bert_base_cased/lcp_train.json
+01/28/2021 05:28:25 data_complex/bert_base_cased/lcp_dev.json
+01/28/2021 05:28:25 data_complex/bert_base_cased/lcp_test.json
+01/28/2021 05:40:38 Task lcp
+01/28/2021 05:40:38 data_complex/bert_base_cased/lcp_train.json
+01/28/2021 05:40:39 data_complex/bert_base_cased/lcp_dev.json
+01/28/2021 05:40:39 data_complex/bert_base_cased/lcp_test.json
+01/28/2021 05:49:54 Task lcp
+01/28/2021 05:49:54 data_complex/bert_base_cased/lcp_train.json
+01/28/2021 05:49:55 data_complex/bert_base_cased/lcp_dev.json
+01/28/2021 05:49:56 data_complex/bert_base_cased/lcp_test.json
+01/28/2021 05:50:08 Task lcp
+01/28/2021 05:50:08 data_complex/bert_base_cased/lcp_train.json
+01/28/2021 05:50:09 data_complex/bert_base_cased/lcp_dev.json
+01/28/2021 05:50:09 data_complex/bert_base_cased/lcp_test.json
+01/28/2021 08:58:45 Task lcp
+01/28/2021 08:58:46 data_complex/bert_base_cased/lcp_train.json
+01/28/2021 08:58:48 data_complex/bert_base_cased/lcp_dev.json
+01/28/2021 08:58:49 data_complex/bert_base_cased/lcp_test.json
+02/09/2021 11:21:54 Task lcp
+02/09/2021 11:21:55 data_complex/bert_base_cased/lcp_train.json
+02/09/2021 11:22:01 data_complex/bert_base_cased/lcp_dev.json
+02/09/2021 11:22:02 data_complex/bert_base_cased/lcp_test.json
+02/09/2021 11:22:13 Task lcp
+02/09/2021 11:22:13 data_complex/bert_base_cased/lcp_train.json
+02/09/2021 11:22:17 data_complex/bert_base_cased/lcp_dev.json
+02/09/2021 11:22:17 data_complex/bert_base_cased/lcp_test.json
+02/12/2021 12:33:57 Task lcp
+02/12/2021 12:33:59 data_complex/bert_base_cased/lcp_train.json
+02/12/2021 12:34:04 data_complex/bert_base_cased/lcp_dev.json
+02/12/2021 12:34:05 data_complex/bert_base_cased/lcp_test.json
+02/17/2021 01:37:23 Task lcp
+02/17/2021 01:37:25 data_complex/bert_base_cased/lcp_train.json
+02/17/2021 01:37:32 data_complex/bert_base_cased/lcp_dev.json
+02/17/2021 01:37:33 data_complex/bert_base_cased/lcp_test.json

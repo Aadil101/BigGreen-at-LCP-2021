@@ -1,0 +1,12 @@
+lcp:
+  data_format: PremiseAndOneHypothesis
+  enable_san: false
+  metric_meta:
+  - MAE
+  - Pearson
+  - Spearman
+  n_class: 1
+  loss: MseCriterion
+  kd_loss: MseCriterion
+  adv_loss: MseCriterion
+  task_type: Regression
