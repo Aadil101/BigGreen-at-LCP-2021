@@ -34,3 +34,9 @@ pip install -r "${mt_dnn_DIR}/requirements.txt"
 pip install torch==1.6.0+cu101 torchvision==0.7.0+cu101 -f https://download.pytorch.org/whl/torch_stable.html
 pip install transformers==3.5.1
 pip install -v --no-cache-dir --global-option="--cpp_ext" --global-option="--cuda_ext" $apex_DIR
+
+pip install gdown
+model=$(pwd)/new-mt-dnn/mt_dnn_models/bert_model_base_cased.pt
+if [ ! -d "${model}"  ]; then
+    gdown https://drive.google.com/uc?id=18xklMtaMBiaEN_MfH6iQFGlNdfgtCV2s -O "${model}"
+fi
