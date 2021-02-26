@@ -5,7 +5,7 @@ This repository contains team `BigGreen`'s code for systems submitted to LCP Sha
 ## Installation
 
 ```bash
-pip install -r macbook/requirements.txt
+sh downloads.sh
 ```
 
 ## Usage
