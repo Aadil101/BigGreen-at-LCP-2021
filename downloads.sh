@@ -13,5 +13,6 @@ sh downloads.sh
 
 cd ../discovery
 pip install -r requirements.txt
+sh downloads.sh
 
 cd ..
