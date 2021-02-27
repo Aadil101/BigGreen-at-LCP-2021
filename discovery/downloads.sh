@@ -26,4 +26,4 @@ fi
 pip install tqdm
 pip install bs4
 pwd=$(pwd)
-python3 build_gigaword_dir.py --pwd "${pwd}"
+python build_gigaword_dir.py --pwd "${pwd}"
