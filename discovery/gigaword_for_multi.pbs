@@ -1,0 +1,18 @@
+#!/bin/bash -l
+# Name
+#PBS -N GIGAWORD1
+# Queue
+#PBS -q default
+# Specify memory
+#PBS -l mem=256gb
+# Time you think it will take
+#PBS -l walltime=24:00:00
+# Email
+#PBS -M aadil.islam.21@dartmouth.edu
+#PBS -m ea
+#PBS -j oe
+# Change directory
+cd $PBS_O_WORKDIR
+source ./venv3.6/bin/activate
+python gigaword_for_multi.py
+#python test.py
