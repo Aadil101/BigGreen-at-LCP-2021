@@ -3,6 +3,15 @@
 # This script is used to download resources for experiments
 ############################################################## 
 
+## Download CompLex corpus
+
+complex_DIR=$(pwd)/lib/CompLex/
+if [ ! -d "${complex_DIR}"  ]; then
+    echo "Clone CompLex repo"
+    git clone https://github.com/MMU-TDMLab/CompLex.git
+fi
+
+
 ## Download ELMo models
 
 ELMo_DIR=$(pwd)/lib/ELMo
