@@ -11,7 +11,7 @@ from sklearn.metrics import mean_absolute_error
 from tqdm import tqdm
 import torch
 import pickle as pkl
-from lib.InferSent.models import InferSent
+from ..lib.InferSent.models import InferSent
 import pandas as pd
 import syllables
 import inspect
@@ -143,6 +143,8 @@ def preprocess(data, path, scale=False):
     if 'complexity' in data.columns:
         data['class'] = pd.cut(data['complexity'], labels=[1,2,3,4,5], bins=[0,0.2,0.4,0.6,0.8,1], include_lowest=True)
     data.rename(columns={'subcorpus':'corpus'}, inplace=True)
+    if 'corpus' not in data:
+        data['corpus'] = 'other'
     data.to_csv(path, sep='\t')
 
 def build_glove_embeddings(config):
@@ -266,7 +268,7 @@ def save_other_features(data, parse_lst_path, config, path, context=True, parse=
         data['SMOGIndex'] = data['sentence'].apply(lambda x: readability.getmeasures(x, lang='en')['readability grades']['SMOGIndex']).to_numpy()
         data['DaleChallIndex'] = data['sentence'].apply(lambda x: readability.getmeasures(x, lang='en')['readability grades']['DaleChallIndex']).to_numpy()
         omit.add('SMOGIndex'); omit.add('DaleChallIndex')
-        if parse:
+        if parse and parse_lst_path is not None:
             parse_lst = pkl.load(open(parse_lst_path, 'rb'))
             parse_tree_depths = []
             token_depths = []

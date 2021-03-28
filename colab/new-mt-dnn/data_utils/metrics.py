@@ -9,6 +9,7 @@ from sklearn.metrics import mean_absolute_error
 from scipy.stats import pearsonr, spearmanr
 from seqeval.metrics import classification_report
 from data_utils.squad_eval import evaluate_func
+import numpy as np
 
 def compute_acc(predicts, labels):
     return 100.0 * accuracy_score(labels, predicts)
@@ -26,12 +27,18 @@ def compute_mcc(predicts, labels):
     return 100.0 * matthews_corrcoef(labels, predicts)
 
 def compute_pearson(predicts, labels):
-    pcof = pearsonr(labels, predicts)[0]
-    return 100.0 * pcof
+    if len(predicts) >= 2:
+        pcof = pearsonr(labels, predicts)[0]
+        return 100.0 * pcof
+    else:
+        return np.nan
 
 def compute_spearman(predicts, labels):
-    scof = spearmanr(labels, predicts)[0]
-    return 100.0 * scof
+    if len(predicts) >= 2:
+        scof = spearmanr(labels, predicts)[0]
+        return 100.0 * scof
+    else:
+        return np.nan
 
 def compute_auc(predicts, labels):
     auc = roc_auc_score(labels, predicts)
