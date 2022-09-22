@@ -1,13 +1,7 @@
-# BigGreen at LCP 2021 
+# BigGreen at LCP-2021
 
-This repository contains team `BigGreen`'s code for systems submitted to LCP SharedTask2021, hosted at SemEval-2021 Task 1. The research paper associated with this code is in the works :)
+This repository is the official implementation for my paper [BigGreen at SemEval-2021 Task 1: Lexical Complexity Prediction with Assembly Models](https://aclanthology.org/2021.semeval-1.86).
 
-## Installation
+Lexical complexity prediction is a fascinating problem to which anyone can practice applying modern machine learning techniques…that is, with a solid **feature set** and **computational resources.** In this documentation, you’ll learn how to extract a diverse set of features that I used in competition to attain near state-of-the-art results, train a model to make predictions using these features, fine-tune an alternative _deep learning_-based model that sacrifices model interpretability (…or does it? Section 6.3 of the paper investigates this) to produce predictions based on BERT-based embeddings, and finally, use a simple assembly technique to harness the predictive capabilities of both of our capable models. 
 
-```bash
-sh downloads.sh
-```
-
-## Usage
-
-## Contributing
+The importance of proper computational resources for speeding up modeling cannot be understated, and I learned this firsthand through the course of this research. This was during the peak of the COVID-19 pandemic, when I didn’t have as much funding nor access to lab resources as extensively as would’ve been ideal. Nonetheless, we adapt! I distributed my work across a local machine (referred to as `macbook` here on out), a Google Colab environment (`colab`), and [Dartmouth Research Computing](https://rc.dartmouth.edu)’s Discovery Cluster (`discovery`). Now, I’m assuming you aren’t taking this convoluted route of navigating three different platforms, and are working largely on a single platform (ideally with multi-GPU access). Thus, I’ll explain my code as succinctly as possible so that you can leverage it within your setup.
